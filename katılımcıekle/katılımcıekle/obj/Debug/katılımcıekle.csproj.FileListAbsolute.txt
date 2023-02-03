@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\katılımcıekle\katılımcıekle\bin\Debug\katılımcıekle.exe.config
+C:\Users\Lenovo\source\repos\katılımcıekle\katılımcıekle\bin\Debug\katılımcıekle.exe
+C:\Users\Lenovo\source\repos\katılımcıekle\katılımcıekle\bin\Debug\katılımcıekle.pdb
+C:\Users\Lenovo\source\repos\katılımcıekle\katılımcıekle\obj\Debug\katılımcıekle.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\katılımcıekle\katılımcıekle\obj\Debug\katılımcıekle.Form1.resources
+C:\Users\Lenovo\source\repos\katılımcıekle\katılımcıekle\obj\Debug\katılımcıekle.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\katılımcıekle\katılımcıekle\obj\Debug\katılımcıekle.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\katılımcıekle\katılımcıekle\obj\Debug\katılımcıekle.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\katılımcıekle\katılımcıekle\obj\Debug\katılımcıekle.exe
+C:\Users\Lenovo\source\repos\katılımcıekle\katılımcıekle\obj\Debug\katılımcıekle.pdb
+C:\Users\Lenovo\source\repos\katılımcıekle\katılımcıekle\obj\Debug\katılımcıekle.Form2.resources

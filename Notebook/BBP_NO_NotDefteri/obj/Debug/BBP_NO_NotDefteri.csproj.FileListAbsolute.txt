@@ -1,0 +1,10 @@
+C:\Users\akteke\source\repos\BBP_NO_NotDefteri\BBP_NO_NotDefteri\bin\Debug\BBP_NO_NotDefteri.exe.config
+C:\Users\akteke\source\repos\BBP_NO_NotDefteri\BBP_NO_NotDefteri\bin\Debug\BBP_NO_NotDefteri.exe
+C:\Users\akteke\source\repos\BBP_NO_NotDefteri\BBP_NO_NotDefteri\bin\Debug\BBP_NO_NotDefteri.pdb
+C:\Users\akteke\source\repos\BBP_NO_NotDefteri\BBP_NO_NotDefteri\obj\Debug\BBP_NO_NotDefteri.csprojAssemblyReference.cache
+C:\Users\akteke\source\repos\BBP_NO_NotDefteri\BBP_NO_NotDefteri\obj\Debug\BBP_NO_NotDefteri.Form1.resources
+C:\Users\akteke\source\repos\BBP_NO_NotDefteri\BBP_NO_NotDefteri\obj\Debug\BBP_NO_NotDefteri.Properties.Resources.resources
+C:\Users\akteke\source\repos\BBP_NO_NotDefteri\BBP_NO_NotDefteri\obj\Debug\BBP_NO_NotDefteri.csproj.GenerateResource.cache
+C:\Users\akteke\source\repos\BBP_NO_NotDefteri\BBP_NO_NotDefteri\obj\Debug\BBP_NO_NotDefteri.csproj.CoreCompileInputs.cache
+C:\Users\akteke\source\repos\BBP_NO_NotDefteri\BBP_NO_NotDefteri\obj\Debug\BBP_NO_NotDefteri.exe
+C:\Users\akteke\source\repos\BBP_NO_NotDefteri\BBP_NO_NotDefteri\obj\Debug\BBP_NO_NotDefteri.pdb

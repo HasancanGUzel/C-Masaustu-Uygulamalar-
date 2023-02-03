@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\stok\stok\bin\Debug\stok.exe.config
+C:\Users\Lenovo\source\repos\stok\stok\bin\Debug\stok.exe
+C:\Users\Lenovo\source\repos\stok\stok\bin\Debug\stok.pdb
+C:\Users\Lenovo\source\repos\stok\stok\obj\Debug\stok.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\stok\stok\obj\Debug\stok.Form1.resources
+C:\Users\Lenovo\source\repos\stok\stok\obj\Debug\stok.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\stok\stok\obj\Debug\stok.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\stok\stok\obj\Debug\stok.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\stok\stok\obj\Debug\stok.exe
+C:\Users\Lenovo\source\repos\stok\stok\obj\Debug\stok.pdb

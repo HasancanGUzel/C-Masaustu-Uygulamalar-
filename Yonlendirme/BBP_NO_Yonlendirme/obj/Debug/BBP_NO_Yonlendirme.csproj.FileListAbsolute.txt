@@ -1,0 +1,10 @@
+C:\Users\akteke\source\repos\BBP_NO_Yonlendirme\BBP_NO_Yonlendirme\bin\Debug\BBP_NO_Yonlendirme.exe.config
+C:\Users\akteke\source\repos\BBP_NO_Yonlendirme\BBP_NO_Yonlendirme\bin\Debug\BBP_NO_Yonlendirme.exe
+C:\Users\akteke\source\repos\BBP_NO_Yonlendirme\BBP_NO_Yonlendirme\bin\Debug\BBP_NO_Yonlendirme.pdb
+C:\Users\akteke\source\repos\BBP_NO_Yonlendirme\BBP_NO_Yonlendirme\obj\Debug\BBP_NO_Yonlendirme.csprojAssemblyReference.cache
+C:\Users\akteke\source\repos\BBP_NO_Yonlendirme\BBP_NO_Yonlendirme\obj\Debug\BBP_NO_Yonlendirme.Form1.resources
+C:\Users\akteke\source\repos\BBP_NO_Yonlendirme\BBP_NO_Yonlendirme\obj\Debug\BBP_NO_Yonlendirme.Properties.Resources.resources
+C:\Users\akteke\source\repos\BBP_NO_Yonlendirme\BBP_NO_Yonlendirme\obj\Debug\BBP_NO_Yonlendirme.csproj.GenerateResource.cache
+C:\Users\akteke\source\repos\BBP_NO_Yonlendirme\BBP_NO_Yonlendirme\obj\Debug\BBP_NO_Yonlendirme.csproj.CoreCompileInputs.cache
+C:\Users\akteke\source\repos\BBP_NO_Yonlendirme\BBP_NO_Yonlendirme\obj\Debug\BBP_NO_Yonlendirme.exe
+C:\Users\akteke\source\repos\BBP_NO_Yonlendirme\BBP_NO_Yonlendirme\obj\Debug\BBP_NO_Yonlendirme.pdb

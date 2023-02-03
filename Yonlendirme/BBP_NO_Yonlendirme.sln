@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBP_NO_Yonlendirme", "BBP_NO_Yonlendirme\BBP_NO_Yonlendirme.csproj", "{DAFC5AAF-1F27-4775-AB19-C18F05E63610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAFC5AAF-1F27-4775-AB19-C18F05E63610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFC5AAF-1F27-4775-AB19-C18F05E63610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFC5AAF-1F27-4775-AB19-C18F05E63610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFC5AAF-1F27-4775-AB19-C18F05E63610}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE14AC29-560E-4590-A92B-FBB69244A66A}
+	EndGlobalSection
+EndGlobal
